@@ -1,0 +1,8 @@
+PUT http://localhost:8080/api/applications/1
+Content-Type: application/json
+
+{
+  "student": {
+    "id": 2
+  }
+}
